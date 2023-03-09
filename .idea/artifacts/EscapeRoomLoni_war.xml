@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EscapeRoomLoni:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>EscapeRoomLoni</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="EscapeRoomLoni-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="EscapeRoomLoni:war exploded" />
+    </root>
+  </artifact>
+</component>
